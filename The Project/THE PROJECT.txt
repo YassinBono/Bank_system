@@ -1,0 +1,7 @@
+ BANK ACCOUNT
+				NAME:             yassin
+				ACCOUNT NUMBER:   11
+				AGE:              20 Years
+				CITY:             cairo
+				MOBILE NUMBER:    01272834923
+				DEPOSITE:        10000000$

@@ -1,0 +1,4 @@
+﻿  The Project.cpp
+D:\c++\The Project\The Project\The Project.cpp(295,21): warning C4129: 'D': unrecognized character escape sequence
+D:\c++\The Project\The Project\The Project.cpp(369,16): warning C4309: 'initializing': truncation of constant value
+  The Project.vcxproj -> D:\c++\The Project\x64\Debug\The Project.exe
